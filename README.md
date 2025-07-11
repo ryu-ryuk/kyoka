@@ -151,7 +151,7 @@ $ kyoka check \
 
 ## Authors
 
-* alok ranjan `[@ryu-ryuk](https://github.com/ryu-ryuk)`
+* alok ranjan [@ryu-ryuk](https://github.com/ryu-ryuk)
 
 ---
 
