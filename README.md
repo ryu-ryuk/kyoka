@@ -157,5 +157,5 @@ $ kyoka check \
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
