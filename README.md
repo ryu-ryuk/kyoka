@@ -17,7 +17,7 @@ It semantically understands queries, searches policy clauses, and makes explaina
   
   ## ~ Preview ~
 
-    https://github.com/user-attachments/assets/407e68a0-fc15-40dc-857c-e61d1120ed69
+https://github.com/user-attachments/assets/407e68a0-fc15-40dc-857c-e61d1120ed69
 
 </div>
 
