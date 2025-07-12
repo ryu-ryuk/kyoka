@@ -261,11 +261,11 @@ if a query is ambiguous, kyoka will ask for the information it needs to make a d
 
 ## Why We're Different
 
-* Built for **explainability**, not just RAG
-* Handles **vague and incomplete** queries
-* Traceable clause-based **justification logic**
-* CLI-first, audit-ready output
-* Modular LLM backend: OpenAI, Gemini, Ollama
+- goes beyond rag with a **multi-step verification** process for true decision logic  
+- handles vague queries with an **interactive clarification** mode  
+- traceable, **hierarchical clause-based justification** logic  
+- **cli-first**, audit-ready output for easy system integration  
+- **modular llm backend** — supports openai, gemini, and ollama  
 
 ---
 
