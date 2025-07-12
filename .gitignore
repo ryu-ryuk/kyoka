@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+build/
+dist/
+
+# go
+*.exe
+*.out
+/cli/kyoka
+
+# os
+.DS_Store
+
+##### 
+.python-version
