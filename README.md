@@ -294,5 +294,5 @@ if a query is ambiguous, kyoka will ask for the information it needs to make a d
 
 ## License
 
-[MIT](LICENSE)
+[READ HERE](LICENSE)
 
