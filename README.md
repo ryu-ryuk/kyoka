@@ -3,7 +3,7 @@
    
 </div>
 
-<h1 align="center">Kyoka: Intelligent Document Query System</h1>
+<h1 align="center">Kyoka</h1>
 
 
 **Kyoka** is a high-performance RAG system that processes documents and answers complex queries with precise, source-cited responses. Built for insurance, legal, HR, and compliance domains.
