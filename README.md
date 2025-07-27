@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="831" height="302" alt="Image" src="https://github.com/user-attachments/assets/c42a7c98-7422-439e-9b81-7e8732a5b470" />
+  <img width="1212" height="363" alt="Image" src="https://github.com/user-attachments/assets/d4a2cee5-907d-49bf-9f3c-d2132336bd0a" />
 </div>
 
 <h1 align="center">Kyoka</h1>
