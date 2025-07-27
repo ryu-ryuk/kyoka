@@ -1,4 +1,10 @@
-# Kyoka: Intelligent Document Query System
+<div align="center">
+  <img width="831" height="302" alt="Image" src="https://github.com/user-attachments/assets/c42a7c98-7422-439e-9b81-7e8732a5b470" />
+   
+</div>
+
+<h1 align="center">Kyoka: Intelligent Document Query System</h1>
+
 
 **Kyoka** is a high-performance RAG system that processes documents and answers complex queries with precise, source-cited responses. Built for insurance, legal, HR, and compliance domains.
 
