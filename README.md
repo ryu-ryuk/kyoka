@@ -31,6 +31,21 @@ The system operates in two phases:
 1. **Document Ingestion**: Structured parsing → Semantic chunking → Vector embedding → Pinecone indexing
 2. **Query Processing**: Hybrid retrieval → Re-ranking → LLM generation → Structured response
 
+#### Preview
+
+<img width="728" height="554" alt="Untitled-2025-07-22-1029(2)" src="https://github.com/user-attachments/assets/c941e652-70c6-408c-8b75-655e2a8f89fe" />
+
+
+---
+
+<details>
+  <summary>View Detailed Architecture Diagram</summary>
+  <img width="1420" height="2493" alt="Untitled-2025-07-22-1029(1)" src="https://github.com/user-attachments/assets/e37689fb-f21c-48bc-81f7-22c27eda61da" />
+</details>
+
+
+
+
 ## Tech Stack
 
 - **Backend**: FastAPI
